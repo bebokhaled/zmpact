@@ -56,11 +56,10 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/lhhlhil_1.png",
         "logo_max_width": 235,
         "logo_mobile_max_width": 170,
         "menu": "main-menu",
-        "sidebar_menu": "",
+        "sidebar_menu": "main-menu",
         "secondary_menu": "",
         "menu_open_trigger": "hover",
         "opening_from": "bottom",
@@ -70,7 +69,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#4e0858",
+        "transparent_header_text_color": "#FFFFFF",
         "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
