@@ -112,6 +112,18 @@
         "product_card_text_color": ""
       }
     },
+    "revealed_image_on_scroll_FDNWw6": {
+      "type": "revealed-image-on-scroll",
+      "name": "Revealed image on scroll",
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2026-10-02_at_03.53.00.jpg",
+        "subheading": "",
+        "title": "",
+        "background": "",
+        "text_color_inside": "#ffffff",
+        "text_color_outside": "#000000"
+      }
+    },
     "newsletter_3YxigC": {
       "type": "newsletter",
       "name": "Newsletter",
@@ -134,6 +146,7 @@
     "video_MtxGNr",
     "slideshow_HJEBgL",
     "featured_collection_MKwHKn",
+    "revealed_image_on_scroll_FDNWw6",
     "newsletter_3YxigC"
   ]
 }
