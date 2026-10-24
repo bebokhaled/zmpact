@@ -28,18 +28,18 @@
             "show_taxes_notice": false
           }
         },
-        "description_fxarA6": {
-          "type": "description",
-          "settings": {
-            "collapse_content": true
-          }
-        },
         "image_p6HzPU": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Gemini_Generated_Image_k1mja9k1mja9k1mj.jpg",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 300
+          }
+        },
+        "description_fxarA6": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
           }
         },
         "buy_buttons": {
@@ -70,8 +70,8 @@
         "title",
         "badges",
         "price",
-        "description_fxarA6",
         "image_p6HzPU",
+        "description_fxarA6",
         "buy_buttons",
         "image_deUHt9",
         "separator_gT6kwf"
