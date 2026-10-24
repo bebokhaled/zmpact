@@ -56,8 +56,9 @@
         "image_deUHt9": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 500
+            "image": "shopify://shop_images/brado-logo-horizontal.png",
+            "alignment": "center",
+            "max_width": 80
           }
         },
         "separator_gT6kwf": {
