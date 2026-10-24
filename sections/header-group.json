@@ -47,7 +47,7 @@
         "navigation_mode": "scrolling",
         "scrolling_speed": 14,
         "background": "#000000",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(36deg, rgba(99, 78, 59, 1) 11%, rgba(206, 189, 173, 1) 84%)",
         "text_color": "#ffffff"
       }
     },
@@ -69,7 +69,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#FFFFFF",
+        "transparent_header_text_color": "#ffffff",
         "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
