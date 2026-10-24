@@ -28,6 +28,20 @@
             "show_taxes_notice": false
           }
         },
+        "description_fxarA6": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "image_p6HzPU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_k1mja9k1mja9k1mj.jpg",
+            "alignment": "start",
+            "max_width": 300
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -49,37 +63,17 @@
         "separator_gT6kwf": {
           "type": "separator",
           "settings": {}
-        },
-        "buy_box_banner_Rimin3": {
-          "type": "shopify://apps/buy-box/blocks/banner/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "sb": true,
-            "i": "none",
-            "t": "🎉 &nbsp <strong>Ce t-shirt est un incontournable</strong>",
-            "d": "Saviez-vous que nos t-shirts sont rarement retournés ? La coupe est parfaite – à vous de voir !",
-            "tt": "#000000",
-            "tc": "#000000",
-            "ci": "#000000",
-            "bc": "#f0f0f0",
-            "brc": "",
-            "is": 20,
-            "ts": 12,
-            "ds": 11,
-            "br": 20,
-            "mt": 0,
-            "mb": 0,
-            "mw": "44rem"
-          }
         }
       },
       "block_order": [
         "title",
         "badges",
         "price",
+        "description_fxarA6",
+        "image_p6HzPU",
         "buy_buttons",
         "image_deUHt9",
-        "separator_gT6kwf",
-        "buy_box_banner_Rimin3"
+        "separator_gT6kwf"
       ],
       "settings": {
         "full_width": true,
@@ -123,22 +117,6 @@
     },
     "17585581234f2e02d9": {
       "type": "apps",
-      "blocks": {
-        "pretty_comparison_tables_table_8KRjKG": {
-          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "settings": {
-            "product": "{{product}}",
-            "title_text": "",
-            "title_font_tag": "h2",
-            "section_background_color": "",
-            "desktop_width": "",
-            "mobile_width": ""
-          }
-        }
-      },
-      "block_order": [
-        "pretty_comparison_tables_table_8KRjKG"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
