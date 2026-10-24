@@ -111,11 +111,29 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "newsletter_3YxigC": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "Newsletter",
+        "content": "<p>You'll receive offers and promotions, and updates.</p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "#846F5A",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "video_MtxGNr",
     "slideshow_HJEBgL",
-    "featured_collection_MKwHKn"
+    "featured_collection_MKwHKn",
+    "newsletter_3YxigC"
   ]
 }
