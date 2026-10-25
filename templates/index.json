@@ -114,6 +114,7 @@
     },
     "revealed_image_on_scroll_FDNWw6": {
       "type": "revealed-image-on-scroll",
+      "disabled": true,
       "name": "Revealed image on scroll",
       "settings": {
         "image": "shopify://shop_images/WhatsApp_Image_2026-10-02_at_03.53.00.jpg",
@@ -122,6 +123,21 @@
         "background": "",
         "text_color_inside": "#ffffff",
         "text_color_outside": "#000000"
+      }
+    },
+    "video_WW6jPa": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "fill",
+        "video": "shopify://files/videos/brado video 2.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "newsletter_3YxigC": {
@@ -147,6 +163,7 @@
     "slideshow_HJEBgL",
     "featured_collection_MKwHKn",
     "revealed_image_on_scroll_FDNWw6",
+    "video_WW6jPa",
     "newsletter_3YxigC"
   ]
 }

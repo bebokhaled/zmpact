@@ -17,25 +17,26 @@
         "item_WzqhMd": {
           "type": "item",
           "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
+            "horizontal_position": 5,
+            "vertical_position": 63,
             "horizontal_position_mobile": 24,
             "vertical_position_mobile": 70,
+            "icon": "shopify://shop_images/WhatsAppImage2026-10-21at09.19.30.jpg",
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Brado Long Sleeve - Aqua Blue",
+            "content": "<p><a href=\"/products/brado-long-sleeve-aqua-blue\" title=\"Brado Long Sleeve - Aqua Blue\">Shop now</a></p>"
           }
         },
         "item_PBiJUc": {
           "type": "item",
           "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
+            "horizontal_position": 63,
+            "vertical_position": 54,
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
             "icon_width": 28,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Brado Grunge Cut",
+            "content": "<p><a href=\"/products/brado-grunge-cut\" title=\"Brado Grunge Cut\">Shop now</a></p>"
           }
         },
         "item_LjNhDN": {
@@ -60,7 +61,6 @@
       "settings": {
         "full_width": true,
         "image": "shopify://shop_images/Gemini_Generated_Image_pjxs3ppjxs3ppjxs.jpg",
-        "mobile_image": "shopify://shop_images/Gemini_Generated_Image_31g1pg31g1pg31g1.jpg",
         "title": "",
         "content": "",
         "button_text": "",
