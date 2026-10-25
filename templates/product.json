@@ -48,9 +48,9 @@
             "show_payment_button": true,
             "show_gift_card_recipient": true,
             "atc_button_background": "#000000",
-            "atc_button_text_color": "#846F5A",
-            "payment_button_background": "#846F5A",
-            "payment_button_text_color": "#FFFFFF"
+            "atc_button_text_color": "#846f5a",
+            "payment_button_background": "#846f5a",
+            "payment_button_text_color": "#ffffff"
           }
         },
         "image_deUHt9": {
@@ -101,9 +101,9 @@
         "products": [],
         "full_width": true,
         "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
         "subheading": "",
         "title": "You may also like",
         "content": "",
