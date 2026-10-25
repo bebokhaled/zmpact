@@ -82,7 +82,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -90,7 +90,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "frontpage",
+        "collection": "all-products",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -105,7 +105,7 @@
         "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "#846F5A",
+        "text_color": "#846f5a",
         "heading_color": "",
         "heading_gradient": "",
         "product_card_background": "",
@@ -137,7 +137,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "button_background": "#846F5A",
+        "button_background": "#846f5a",
         "button_text_color": ""
       }
     }
