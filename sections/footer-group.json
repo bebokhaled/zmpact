@@ -22,7 +22,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "#846F5A",
+            "icon_color": "#846f5a",
             "title": "Service client 7J/7",
             "content": ""
           }
@@ -35,7 +35,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "#846F5A",
+            "icon_color": "#846f5a",
             "title": "Satisfait ou 100% remboursé",
             "content": ""
           }
@@ -48,7 +48,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "#846F5A",
+            "icon_color": "#846f5a",
             "title": "Livraison Gratuite",
             "content": ""
           }
@@ -61,7 +61,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "#846F5A",
+            "icon_color": "#846f5a",
             "title": "Paiement 100% sécurisé",
             "content": ""
           }
@@ -88,13 +88,12 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
+        "text_47ePTc": {
+          "type": "text",
           "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Inscrivez-vous pour être au courant de nos nouvelles offres et promotions !",
-            "content": ""
+            "title": "BRADO — Born Wild",
+            "content": "<p>BRADO is where performance meets streetwear. Built for movement, designed for attitude, and made to adapt to the way you wear it.</p><p><strong>One fit. Three attitudes.</strong>&nbsp;Whether you go Baggy, Perfect, or Fitted, BRADO is shaped by your height and defined by your style. One BRADO fit, multiple ways to express yourself.</p><p><strong>Built to adapt. Born to stand out.</strong></p>",
+            "enable_follow_on_shop": true
           }
         },
         "links": {
@@ -106,7 +105,7 @@
         }
       },
       "block_order": [
-        "newsletter",
+        "text_47ePTc",
         "links"
       ],
       "settings": {
