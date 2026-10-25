@@ -34,6 +34,7 @@
             "vertical_position": 54,
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
+            "icon": "shopify://shop_images/WhatsAppImage2026-10-21at09.18.31_1.jpg",
             "icon_width": 28,
             "title": "Brado Grunge Cut",
             "content": "<p><a href=\"/products/brado-grunge-cut\" title=\"Brado Grunge Cut\">Shop now</a></p>"
@@ -42,13 +43,14 @@
         "item_LjNhDN": {
           "type": "item",
           "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
+            "horizontal_position": 91,
+            "vertical_position": 28,
+            "horizontal_position_mobile": 79,
             "vertical_position_mobile": 75,
+            "icon": "shopify://shop_images/WhatsAppImage2026-10-21at09.19.53.jpg",
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Brado Short Sleeve - Burgundy",
+            "content": "<p><a href=\"/products/brado-short-sleeve-burgundy\" title=\"Brado Short Sleeve - Burgundy\">Shop now</a></p>"
           }
         }
       },
