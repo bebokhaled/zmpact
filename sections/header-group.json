@@ -17,21 +17,21 @@
         "message_KQRq4K": {
           "type": "message",
           "settings": {
-            "text": "PROCHAIN RÉAPPROVISIONNEMENT EN JUILLET 2026",
+            "text": "BORN WILD. BUILT TO ADAPT. ",
             "url": ""
           }
         },
         "message_xegXTL": {
           "type": "message",
           "settings": {
-            "text": "STOCKS TRÈS FAIBLES",
+            "text": "THE NEW DROP IS HERE. MAKE IT YOURS.",
             "url": ""
           }
         },
         "message_rQ3fjz": {
           "type": "message",
           "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
+            "text": "YOUR SIZE. YOUR ATTITUDE. DON'T MISS OUT.",
             "url": ""
           }
         }
@@ -45,10 +45,10 @@
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 14,
+        "scrolling_speed": 10,
         "background": "#000000",
-        "background_gradient": "linear-gradient(201deg, rgba(132, 111, 90, 1) 11%, rgba(0, 0, 0, 1) 84%)",
-        "text_color": "#ffffff"
+        "background_gradient": "radial-gradient(rgba(132, 111, 90, 0.3) 11%, rgba(0, 0, 0, 1) 84%)",
+        "text_color": "#846F5A"
       }
     },
     "header": {
